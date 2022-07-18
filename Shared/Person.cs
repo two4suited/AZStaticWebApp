@@ -1,4 +1,4 @@
-namespace BlazorApp.Api;
+namespace Shared;
 
 public class Person
 {
