@@ -18,6 +18,9 @@
   <component name="KubernetesApiPersistence">
     <option name="context" value="docker-desktop" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2C5sOWf5286y66pRnbM5GGj4qCr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,7 +38,7 @@
   }
 }]]></component>
   <component name="RunManager" selected="Azure Functions host.StaticWebAppFunction">
-    <configuration name="GetPerson (StaticWebAppFunction)" type="AzureFunctionsHost" factoryName="Azure Functions host" temporary="true">
+    <configuration name="GetPerson (StaticWebAppFunction)" type="AzureFunctionsHost" factoryName="Azure Functions host">
       <option name="EXE_PATH" value="$PROJECT_DIR$/StaticWebAppFunction/bin/Debug/net6.0/StaticWebAppFunction.dll" />
       <option name="PROGRAM_PARAMETERS" value="host start --pause-on-error" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StaticWebAppFunction/bin/Debug/net6.0" />
@@ -131,11 +134,6 @@
       <item itemvalue="Azure Functions host.StaticWebAppFunction" />
       <item itemvalue="Azure Functions host.GetPerson (StaticWebAppFunction)" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Azure Functions host.GetPerson (StaticWebAppFunction)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -145,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658103749770</updated>
-      <workItem from="1658103752698" duration="216000" />
+      <workItem from="1658103752698" duration="1662000" />
     </task>
     <servers />
   </component>
